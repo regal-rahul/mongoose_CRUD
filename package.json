@@ -1,0 +1,24 @@
+{
+  "name": "mongoose_crud",
+  "version": "1.0.0",
+  "description": "Full CRUD implementation on mongoose.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/regal-rahul/mongoose_CRUD.git"
+  },
+  "author": "regal-rahul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/regal-rahul/mongoose_CRUD/issues"
+  },
+  "homepage": "https://github.com/regal-rahul/mongoose_CRUD#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "mongoose": "^6.3.5"
+  }
+}
